@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Toko-OnlineApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_keranjang">Keranjang</string>
+    <string name="title_akun">Akun</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragmentHome">WEllCOME</string>
+    <string name="fragmentAkun">AKUN</string>
+    <string name="fragmentKeranjang">KERANJANG</string>
 </resources>
